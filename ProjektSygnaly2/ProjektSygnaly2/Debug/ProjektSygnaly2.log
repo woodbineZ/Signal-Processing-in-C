@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly2\projektsygnaly2\źródło.cpp(27): warning C4101: "smiec": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly2\projektsygnaly2\źródło.cpp(114): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly2\projektsygnaly2\źródło.cpp(111): warning C4101: "p": lokalna zmienna, do której nie istnieje odwołanie
+  ProjektSygnaly2.vcxproj -> C:\Users\Jakub\Documents\Studia\Programowanie w C\Projekty\ProjektSygnaly2\Debug\ProjektSygnaly2.exe
